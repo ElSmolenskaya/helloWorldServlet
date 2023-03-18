@@ -10,7 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="839b7be5-5980-4389-9530-a2252ff23f20" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/helloWorldArtifact.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/helloWorldArtifact.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +87,8 @@
       <updated>1678959565803</updated>
       <workItem from="1678959819054" duration="13972000" />
       <workItem from="1679114585787" duration="835000" />
-      <workItem from="1679115745961" duration="168000" />
+      <workItem from="1679115745961" duration="253000" />
+      <workItem from="1679129910684" duration="1689000" />
     </task>
     <task id="LOCAL-00001" summary="Разработка проекта HelloWorldServlet">
       <created>1679114311626</created>
@@ -101,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679114664427</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Добавлен файл конфигурации проекта">
+      <created>1679115990471</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679115990471</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Разработка проекта HelloWorldServlet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Разработка проекта HelloWorldServlet" />
+    <MESSAGE value="Добавлен файл конфигурации проекта" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлен файл конфигурации проекта" />
   </component>
 </project>

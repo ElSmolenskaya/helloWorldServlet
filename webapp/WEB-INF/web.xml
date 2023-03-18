@@ -10,6 +10,6 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>HelloWorldServlet</servlet-name>
-        <url-pattern>/</url-pattern>
+        <url-pattern>/HelloWorld</url-pattern>
     </servlet-mapping>
 </web-app>
